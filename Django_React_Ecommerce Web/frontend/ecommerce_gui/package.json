@@ -1,0 +1,50 @@
+{
+  "name": "ecommerce_gui",
+  "version": "0.1.0",
+  "homepage": "./",
+  "private": true,
+  "dependencies": {
+    "anix": "^0.3.3",
+    "antd": "^4.9.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.0",
+    "jquery": "^3.5.1",
+    "js-cookie": "^2.2.1",
+    "khalti-checkout-web": "^2.2.0",
+    "particles-bg": "^2.3.12",
+    "react": "^16.2.0",
+    "react-bootstrap": "^1.6.0",
+    "react-cookies": "^0.1.1",
+    "react-dom": "^16.2.0",
+    "react-ga": "^2.3.5",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.1",
+    "react-slideshow-image": "^3.4.6",
+    "redux": "^4.0.5",
+    "redux-csrf": "^1.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3",
+    "universal-cookie": "^4.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,OAEE,qBAGF,CACA,UACI,cACJ","file":"main.085ff169.chunk.css","sourcesContent":["#Space{\r\n\r\n  margin: -46px -75% 0 0;\r\n\r\n\r\n}\r\n#icon-nav{\r\n    font-size: 25px;\r\n}\r\n\r\n\r\n\r\n\r\n\r\n"]}
